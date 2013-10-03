@@ -1,0 +1,1 @@
+:net_kernel.start([:fn_runner])
